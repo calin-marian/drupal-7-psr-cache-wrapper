@@ -1,1 +1,1 @@
-# drupal-7-psr-adapter
+# drupal-7-psr6-adapter
