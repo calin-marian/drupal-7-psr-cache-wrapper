@@ -1,6 +1,6 @@
 {
   "name": "calin-marian/drupal7-psr6-adapter",
-  "description": "A PSR-6 wrapper for Drupal 7 cache system",
+  "description": "A PSR-6 adapter for Drupal 7 cache system",
   "homepage": "https://github.com/calin-marian/drupal7-psr6-adapter",
   "require": {
     "fig/cache-util": "^1.0@dev"
