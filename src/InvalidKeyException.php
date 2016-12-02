@@ -6,7 +6,7 @@ use Psr\Cache\InvalidArgumentException;
 
 /**
  * @file
- * Contains Drupal\places_api_autocomplete\Exception\InvalidKeyException.
+ * Contains DrupalPsr\Cache\InvalidKeyException.
  */
 
 /**
