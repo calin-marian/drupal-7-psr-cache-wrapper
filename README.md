@@ -1,1 +1,1 @@
-# drupal-7-psr-cache-wrapper
+# drupal-7-psr-adapter
